@@ -1,0 +1,25 @@
+{
+  "name": "blogr-landing-page",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "browser-sync": "^3.0.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^6.0.1",
+    "gulp-uglify-es": "^3.0.0",
+    "sass": "^1.89.2",
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.5.2",
+    "gulp": "^5.0.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
